@@ -9,5 +9,4 @@ class NMS_v1_16_R3 extends NMS {
                 "disabledSlots"
         );
     }
-
 }
